@@ -1,6 +1,6 @@
 
 ## Proyecto Java Web / Struts 1.3 (Con Bases de datos)
-### Login y Registro de Usuario
+### Login - Registro de Usuario
 
 ![Inicio Sesión - Internet Explorer 4_2_2022 19_48_59](https://user-images.githubusercontent.com/88462536/152616172-0e2d7047-99e0-4050-8447-f98c9c42d991.png)
 
